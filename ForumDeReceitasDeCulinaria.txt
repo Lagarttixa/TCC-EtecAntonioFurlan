@@ -1,0 +1,13 @@
+forum de receitas de culinaria onde o usuario podera tambem interagir com outros usuarios.
+No forum/Site vai ter:
+- cadastro do usuario 
+    email, nome, senha, numero de celular;
+-formulario de novas receitas (onde o usuario vai poder adicionar alguma receita que o mesmo conheça):
+    lista de ingredientes, modo de preparo, equipamentos utilizados, o tempo de preparo, video;
+-uma aba onde fica as receitas e o filtro
+    receitas em ordem alfabetica, busca filtro;
+-uma aba do usuario:
+    login, alterar senha, email, receitas favoritas, inserções de receita;(likes recebidos, foto de perfil)
+-uma aba de receitas:
+    modo de preparo, ingredientes, equipamentos, o tempo de preparo, video tutorial;(likes da receita)
+(comunidade: onde os usuarios vão interagir com conhecimentos)
